@@ -8,7 +8,7 @@ Offers options to train the model on a provided dataset or load a pre-trained mo
 
 ## Installation:
 
-Clone this repository using git clone https://github.com/<username>/music-genre-classifier.git (replace <username> with your GitHub username).
+Clone this repository using git clone https://github.com/Alexstandall179/music-genre-classifier.git (replace <username> with your GitHub username).
 Open a terminal and navigate to the project directory using cd music-genre-classifier.
 Install the required Python libraries using pip install [package for audio feature extraction] scikit-learn (Replace [package for audio feature extraction] with the actual library for audio feature extraction like librosa).
 
